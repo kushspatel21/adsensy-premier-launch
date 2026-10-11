@@ -51,3 +51,5 @@ Important Notes
 - Payment, screen playback, and analytics features depend on the integrations configured in the project.
 Project Status
 Hackathon / prototype project for exploring digital advertising inventory management and footfall-informed revenue opportunities for Ahmedabad Metro.
+
+CHECK MY DOC FILE INSIDE WHICH THERE IS PHOTO OF WORKING APP AND I MENTION LIVE LINK IN GOOGLE FORM
